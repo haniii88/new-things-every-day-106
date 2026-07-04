@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 106 */
+/* New Things Every Day — Day 106 */
 /* Calculates minimum, maximum, average, and total */
 
 function dailyLog106() {
